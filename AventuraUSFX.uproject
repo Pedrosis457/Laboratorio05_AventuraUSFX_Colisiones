@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F395F8E3-40E8-B985-5ED6-93BAA5B7F6AB}",
+	"Category": "",
+	"Description": "Laboratorio 05 - Programacion Avanzada SIS457 - Colisiones block y overlap",
+	"Modules": [
+		{
+			"Name": "AventuraUSFX",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
